@@ -1,0 +1,6 @@
+name: pulumi-demo
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Demo Pulumi with permission settings
